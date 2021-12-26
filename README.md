@@ -18,3 +18,5 @@ The generator works by:
 8. printing the result to the HTML page, displaying the gradient as a stack of 1-pixel height div elements with a background colour for each in-between hex code.
 
 A live version of the app can be used at www.nymphofthevales.com/content/gradient/
+
+<p>Complete.</p>
