@@ -11,4 +11,5 @@ The generator works by:
   (i.e. if there is a large difference in the given red values, but not in blue, there would be less in-between values for blue, and it needs to have average values injected to bring it up to the same length in order to allow the next step),
 7. putting the red, green, and blue components back together into hexadecimal colour strings, and finally,
 8. printing the result to the HTML page.
+
 A live version of the app can be used at www.nymphofthevales.com/content/gradient/
