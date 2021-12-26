@@ -36,3 +36,5 @@ div.gradient {
   font-size: 1.1em;
   font-family: georgia, serif;
 }
+
+img[alt=drawing] { width: 60%; }
