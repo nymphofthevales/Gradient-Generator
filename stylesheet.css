@@ -1,0 +1,38 @@
+body {
+  width: 70%;
+  margin: 0 auto;
+  padding-top: 40px;
+  text-align: center;
+}
+
+div,section {
+  margin: 0 auto; 
+  padding: 5px;
+}
+
+div.flag {
+  margin: 0px; 
+  padding: 5px;
+  height: 100px;
+}
+
+div.gradient {
+  margin: 0;
+  padding: 0; 
+  height: 5px;
+  width: 100%;
+}
+
+.spacer {
+  height: 40px;
+}
+
+.excerpt {
+  color: white; 
+  margin: 0 auto; 
+  padding: 0; 
+  text-align: center; 
+  width: 50%;
+  font-size: 1.1em;
+  font-family: georgia, serif;
+}
