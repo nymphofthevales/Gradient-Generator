@@ -1,5 +1,7 @@
 # Gradient-Generator
-<img src="./headerimg.png" width="70%">
+<p align="center">
+  <img src="./headerimg.png" width="70%" style="margin:0 auto;">
+ </p>
 A web application for generating a gradient of values between any two hexadecimal or RGB colour codes. This project required me to tackle some interesting problems 
 like parsing hexadecimal numbers, sorting lists of numbers, and injecting values at even intervals into a list in order to modify its length in a consistent way. 
 It has its issues, especially with colour values near black or including zeros, but overall is a nice project. Can really generate some pretty gradients. 
